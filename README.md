@@ -1,3 +1,5 @@
+![Swift icon](https://github.com/boycechang/Swift-2.0-CN/blob/master/images/swift.png)  
+
 # Swift 2.0 中文版
 =====================
 
